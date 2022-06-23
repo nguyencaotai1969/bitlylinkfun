@@ -1,0 +1,95 @@
+1656042165
+s:5520:"            <div class="advertising-rates">
+
+                <!-- Nav tabs -->
+                <ul class="nav nav-tabs" role="tablist">
+                                            <li role="presentation"><a href="#interstitial" aria-controls="interstitial" role="tab" data-toggle="tab">Interstitial</a></li>
+                                                                <li role="presentation"><a href="#banner-ads" aria-controls="banner-ads" role="tab" data-toggle="tab">Banner</a></li>
+                                                                <li role="presentation"><a href="#popup-ads" aria-controls="popup-ads" role="tab" data-toggle="tab">Popup</a></li>
+                                    </ul>
+
+                <!-- Tab panes -->
+                <div class="tab-content">
+                                            <div role="tabpanel" class="tab-pane" id="interstitial">
+                            <table class="table table-hover table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Package Description / Country</th>
+                                        <th>Price 1,000</th>
+                                    </tr>
+                                </thead>
+                                                                                                    <tr>
+                                        <td>Worldwide Deal</td>
+                                        <td>$1.00</td>
+                                    </tr>
+                                                                    <tr>
+                                        <td>Canada</td>
+                                        <td>$4.00</td>
+                                    </tr>
+                                                                    <tr>
+                                        <td>United Kingdom</td>
+                                        <td>$5.00</td>
+                                    </tr>
+                                                                    <tr>
+                                        <td>United States</td>
+                                        <td>$5.00</td>
+                                    </tr>
+                                                            </table>
+                        </div>
+                                                                <div role="tabpanel" class="tab-pane" id="banner-ads">
+                            <table class="table table-hover table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Package Description / Country</th>
+                                        <th>Price 1,000</th>
+                                    </tr>
+                                </thead>
+                                                                                                    <tr>
+                                        <td>Worldwide Deal</td>
+                                        <td>$1.00</td>
+                                    </tr>
+                                                                    <tr>
+                                        <td>Canada</td>
+                                        <td>$4.00</td>
+                                    </tr>
+                                                                    <tr>
+                                        <td>United Kingdom</td>
+                                        <td>$5.00</td>
+                                    </tr>
+                                                                    <tr>
+                                        <td>United States</td>
+                                        <td>$5.00</td>
+                                    </tr>
+                                                            </table>
+                        </div>
+                                                                <div role="tabpanel" class="tab-pane" id="popup-ads">
+                            <table class="table table-hover table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Package Description / Country</th>
+                                        <th>Price 1,000</th>
+                                    </tr>
+                                </thead>
+                                                                                                    <tr>
+                                        <td>Worldwide Deal</td>
+                                        <td>$1.00</td>
+                                    </tr>
+                                                                    <tr>
+                                        <td>Canada</td>
+                                        <td>$4.00</td>
+                                    </tr>
+                                                                    <tr>
+                                        <td>United Kingdom</td>
+                                        <td>$5.00</td>
+                                    </tr>
+                                                                    <tr>
+                                        <td>United States</td>
+                                        <td>$5.00</td>
+                                    </tr>
+                                                            </table>
+                        </div>
+                                    </div>
+
+            </div>
+
+            ";
